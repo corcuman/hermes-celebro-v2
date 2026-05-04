@@ -9,7 +9,7 @@
   ╚═════╝╚══════╝╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝       ╚═══╝  ╚══════╝
 </pre>
 
-**Plugin de memoria persistente local para [Hermes](https://github.com/nousresearch/hermes) (Claude Code).**
+**Plugin de memoria persistente local para [Hermes](https://github.com/NousResearch/hermes-agent).**
 
 SQLite · ChromaDB · Ollama · 100% local · Sin APIs externas
 
@@ -54,7 +54,7 @@ RECUPERAR recuerdo:
 
 ### Requisitos
 
-- [Hermes (Claude Code)](https://github.com/nousresearch/hermes) instalado
+- [Hermes](https://github.com/NousResearch/hermes-agent) instalado
 - [Ollama](https://ollama.com/) corriendo localmente con `nomic-embed-text`:
   ```bash
   ollama pull nomic-embed-text
