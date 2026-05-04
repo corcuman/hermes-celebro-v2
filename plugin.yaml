@@ -1,0 +1,6 @@
+name: celebro_v2
+version: 0.1.0
+description: "Celebro v2 — local persistent memory with SQLite, optional Chroma/Ollama semantic recall, and Hermes MemoryProvider integration."
+hooks:
+  - on_session_end
+  - on_memory_write

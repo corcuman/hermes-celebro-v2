@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Datos de memoria — nunca subir
+*.db
+*.db-wal
+*.db-shm
+chroma/
+
+# Entornos
+venv/
+.venv/
+*.egg-info/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
